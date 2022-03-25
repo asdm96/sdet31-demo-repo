@@ -1,0 +1,5 @@
+class A{
+@Test
+public void create(){
+System.out.println("organization is created");
+}
