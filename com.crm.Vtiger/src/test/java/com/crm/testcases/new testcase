@@ -1,0 +1,6 @@
+class BTest{
+@Test
+public void create(){
+System.out.println("hello");
+}
+}
